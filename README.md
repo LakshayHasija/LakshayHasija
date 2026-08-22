@@ -38,9 +38,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshayHasija&show_icons=true&theme=radical" alt="Lakshay's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshayHasija&theme=radical" alt="Lakshay's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=LakshayHasija&theme=radical" alt="Lakshay's GitHub streak" />
 </p>
