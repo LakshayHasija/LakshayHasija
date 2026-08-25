@@ -3,7 +3,7 @@
 
 <p align="center">
   🔭 Currently building <b>THE-F1-FILES</b> — an MCP + RAG powered Q&A agent over Formula 1 race data<br>
-  📊 ~2.5 years experience turning messy data into decisions with SQL, Python & Power BI<br>
+  📊 ~3 years experience turning messy data into decisions with SQL, Python & Power BI<br>
   🌱 Currently leveling up on Snowflake, LLM agents (MCP/RAG), and applied ML<br>
   📫 Reach me on <a href="https://www.linkedin.com/in/lakshayhasija">LinkedIn</a>
 </p>
