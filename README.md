@@ -12,7 +12,7 @@
 
 ### 🚀 Featured Projects
 
-- **[THE-F1-FILES](#)** — MCP server + RAG pipeline over the Ergast F1 dataset (SQLite), Chroma vector store, Groq-backed answers
+- **[THE-F1-FILES](https://github.com/LakshayHasija/THE-F1-FILES)** — MCP server + RAG pipeline over the Ergast F1 dataset (SQLite), Chroma vector store, Groq-backed answers
 - **[SQL-Agent](https://github.com/LakshayHasija/SQL-Agent)** — Query databases in plain English, powered by LangChain + Gemini
 - **[AB-Testing](https://github.com/LakshayHasija/AB-Testing)** — Frequentist Z-tests + Bayesian Beta-Binomial modeling, Streamlit UI
 - **[ml-pipeline](https://github.com/LakshayHasija/ml-pipeline)** — End-to-end ML pipeline with FastAPI serving + MLflow drift monitoring
